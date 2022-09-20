@@ -1,22 +1,28 @@
 {
-	"movies": [
+	"projects": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "External Prosthetic Limb using microcontrollers based motion analysis",
+			"Technologies": "Solidworks, Arduino Uno, 3D Printing",
+			"Presented At": "International Conference on Intelligent Technologies ",
+			"Year": "2021"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "ICU Readmissions Predictions Using Deep Learning",
+			"Technologies": "Machine Learning, Keras, Tensorflow",
+			"Presented At": "VIT Capstone Project",
+			"Year": "2020"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
-		}
+			"Title": "Autonomous Unmanned Aerial Vehicle",
+			"Technologies": "Computer Vision, Graph-based Algorithms",
+			"Presented At": "Students Unmanned Aerial Systems Competition",
+			"Year": "2018"
+		},
+		{
+			"Title": "Mars Rover",
+			"Technologies": "Nvidia Jetson, Robotic Arm",
+			"Presented At": "University Rover Challenge",
+			"Year": "2018"
+		}	
 	]
 }
