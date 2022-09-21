@@ -349,6 +349,9 @@ input {
 }
 
 /* Slick Nav CSS */
+.align-items-center {
+  align-items: center !important;
+}
 .mt-5 {
   margin-top: 3rem !important;
 }
