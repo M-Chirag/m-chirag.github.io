@@ -321,6 +321,9 @@ input {
 }
 
 /* Slick Nav CSS */
+.text-center {
+  text-align: center !important;
+}
 .slicknav_menu {
     display:none;
 }
